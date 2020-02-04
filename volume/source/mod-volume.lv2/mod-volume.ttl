@@ -31,11 +31,11 @@ doap:maintainer [
     lv2:microVersion 0;
 
 rdfs:comment """
-The MOD Volume plugin is a very simple, but effective plugin that works exactly like a passive volume knob.
+The MOD Volume is a very simple, but effective plugin that works exactly like a passive volume knob.
 
-This plugin is also available as a stereo version called the MOD Volume 2X2.
+This plugin is also available as a stereo version called the MOD Volume 2X2. 
 
-The "Mode" parameter sets the volume curve. A linear curve is useful for controlling the volume before an an overdrive or distortion, giving fine control over the amount of distortion that you will get. The logarithmic curve matches the curve of human ears, and is recommended for situations where you want to control the perceived volume.
+The “Mode” parameter sets the volume curve. A linear curve is useful for controlling the volume before overdrives or distortions, giving fine control over the amount of distortion that you will get. The logarithmic curve matches the curve of human ears and is recommended for situations where you want to control the perceived volume.
 
 Features:
 Modeled by MOD Devices

@@ -1,5 +1,4 @@
 #include <math.h>
-#include <stdio.h>
 #include <stdlib.h>
 
 #include "lv2/lv2plug.in/ns/lv2core/lv2.h"
